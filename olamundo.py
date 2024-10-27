@@ -1,1 +1,2 @@
-print("ola mundo")
+nome = str(input("nome: "))
+print(nome)
