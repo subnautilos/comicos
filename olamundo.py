@@ -1,2 +1,2 @@
 nome = str(input("nome: "))
-print(nome)
+print(f"{nome}, bem vindo!")
